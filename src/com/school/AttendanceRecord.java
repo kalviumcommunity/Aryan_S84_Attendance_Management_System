@@ -33,3 +33,4 @@ public class AttendanceRecord implements Storable {
         return student.getId() + "," + course.getCourseId() + "," + status;
     }
 }
+
